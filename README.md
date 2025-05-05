@@ -1,12 +1,77 @@
-# React + Vite
+# 🌱 Renova — Tu espacio para comenzar de nuevo, cada día
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Renova es una aplicación minimalista diseñada para ayudarte a reconectar contigo mismo y planificar tu día con intención. Ideal para quienes buscan claridad, enfoque y autogestión diaria.
 
-Currently, two official plugins are available:
+## ✨ Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 👋 Login con alias personalizado
+- 🧠 Planificación diaria guiada
+- 📅 Visualización del día con calendario tipo agenda
+- ✅ Recordatorios motivacionales y microacciones
+- 💬 Sugerencias inteligentes según tus metas
+- 🔁 Edición de planificación en cualquier momento
 
-## Expanding the ESLint configuration
+## 🖼️ Vista previa
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img src="./screenshots/login.png" width="300" /> <img src="./screenshots/planday.png" width="300" />  
+<img src="./screenshots/dashboard.png" width="300" />
+
+## 🚀 Instalación
+
+1. Clona este repositorio:
+
+```bash
+git clone https://github.com/tu_usuario/renova-app.git
+cd renova-app
+```
+
+2. Instala las dependencias:
+
+```bash
+yarn install
+# o
+npm install
+```
+
+3. Inicia la app:
+
+```bash
+yarn dev
+# o
+npm run dev
+```
+
+## 🧠 Tecnologías usadas
+
+- React + Vite
+- TailwindCSS
+- React Router DOM
+- LocalStorage (persistencia)
+- Diseño UI minimalista inspirado en apps como Notion y Recordatorios (Apple)
+
+## 📦 Estructura de carpetas
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── utils/
+├── App.jsx
+└── main.jsx
+```
+
+## 📌 Próximas mejoras
+
+- Integración con Google Login
+- Recordatorios push
+- Sincronización en la nube
+- Estadísticas semanales de hábitos
+
+## 🧑‍💻 Autor
+
+Desarrollado por Darikson Anyosa | [LinkedIn](https://www.linkedin.com/in/...)
+
+---
+
+“Cada día es una nueva oportunidad para ti.” ✨
