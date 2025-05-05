@@ -14,7 +14,6 @@ Renova es una aplicación minimalista diseñada para ayudarte a reconectar conti
 ## 🖼️ Vista previa
 
 <img src="./screenshots/login.png" width="300" /> <img src="./screenshots/planday.png" width="300" />  
-<img src="./screenshots/dashboard.png" width="300" />
 
 ## 🚀 Instalación
 
@@ -70,7 +69,7 @@ src/
 
 ## 🧑‍💻 Autor
 
-Desarrollado por Darikson Anyosa | [LinkedIn](https://www.linkedin.com/in/...)
+Desarrollado por Darikson Anyosa | [LinkedIn](https://www.linkedin.com/in/dariksonanyosa/)
 
 ---
 
